@@ -1,0 +1,5 @@
+Descriptionn of Future Sales Prediction:
+1. T.V: Advertising cost spent in dollars for advertising on TV.
+2. Radio: Advertising cost spent in dollars for advertising on Radio.
+3. Newspaper: Advertising cost spent in dollars for advertising on Newspaper.
+4. Sales: Number of units sold.
